@@ -14,7 +14,7 @@
 
 - E-mail:
   - **[908023905@qq.com](mailto:908023905@qq.com)**
-- WeChat: **Wu-\_-Kan**
+- WeChat: **wxid_32wuhv2bzj322**
 - QQ: **908023905**
 
 <!-- .slide -->
