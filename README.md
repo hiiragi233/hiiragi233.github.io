@@ -8,7 +8,7 @@
 
 - Address: **Wuhan Institute of Technology - Wuhan, China**
 - Phone: **+86 17671016836**
-- Site: **<https://wu-kan.cn>**
+- Site: **<https://zhanchong1.github.io>**
 
 <!-- .slide vertical=true -->
 
@@ -16,7 +16,7 @@
   - **[i@wu-kan.cn](mailto:i@wu-kan.cn)**
   - **[wukan3@mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
 - WeChat: **Wu-\_-Kan**
-- QQ: **942759535**
+- QQ: **908023905**
 
 <!-- .slide -->
 
