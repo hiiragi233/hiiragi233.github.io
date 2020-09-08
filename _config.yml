@@ -10,7 +10,7 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   <a href="https://github.com/zhanchong1">
     <i class="fab fa-github"></i>
   </a>
-  <a href="">
+  <a >
     <i class="fab fa-qq"></i>
   </a>
   
