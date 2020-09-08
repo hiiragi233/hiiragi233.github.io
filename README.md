@@ -1,4 +1,4 @@
-# 星合の空
+# 柊什の小窝
 
 欢迎访问我的个人主页！下面向你介绍一下我自己吧~
 
@@ -6,8 +6,8 @@
 
 ## 我的一些联系方式
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
+- Address: **Wuhan Institute of Technology - Wuhan, China**
+- Phone: **+86 17671016836**
 - Site: **<https://wu-kan.cn>**
 
 <!-- .slide vertical=true -->
