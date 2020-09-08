@@ -5,6 +5,15 @@
 
 <!-- .slide -->
 
+## 我的一些教育情况
+
+<!-- .slide vertical=true -->
+
+- information engineering, School of Electrical Information, Wuhan Institute of Technology
+- Sept. 2017 - Jul. 2021(expected)
+
+<!-- .slide -->
+
 ## 我的一些联系方式
 
 - Address: **Wuhan Institute of Technology - Wuhan, China**
@@ -20,14 +29,7 @@
 
 <!-- .slide -->
 
-## 我的一些教育情况
 
-<!-- .slide vertical=true -->
-
-- information engineering, School of Electrical Information, Wuhan Institute of Technology
-- Sept. 2017 - Jul. 2021(expected)
-
-<!-- .slide -->
 
 ## 我的一些项目成果
 
