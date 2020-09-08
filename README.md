@@ -13,8 +13,7 @@
 <!-- .slide vertical=true -->
 
 - E-mail:
-  - **[i@wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3@mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
+  - **[908023905@qq.com](mailto:908023905@qq.com)**
 - WeChat: **Wu-\_-Kan**
 - QQ: **908023905**
 
