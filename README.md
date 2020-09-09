@@ -41,6 +41,6 @@
 - Phone: **+86 17671016836**
 - Site: **<https://zhanchong1.github.io>**
 - E-mail:**[908023905@qq.com](mailto:908023905@qq.com)**
-- WeChat: **wxid_32wuhv2bzj322**
+- WeChat: **z908023905**
 - QQ: **908023905**
 
