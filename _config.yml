@@ -59,12 +59,12 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://github.com/zhanchong1/zhanchong1.github.io/blob/master/assets/images/teriri.jpg?raw=true"
+                href="http://a1.qpic.cn/psc?/V11md7vZ0BO9Sy/ruAMsa53pVQWN7FLK88i5icB52IDpo26*jU5sN.r.651BD4rGABrtD6iBYKVLOExey4kjJBMTSZTarGBqV4AxuZ05IKXcNiGwdJmNNTBF.0!/c&ek=1&kp=1&pt=0&bo=eAB0AHgAdAARECc!&tl=3&vuin=2059623526&tm=1599645600&sce=60-2-2&rf=0-0"
               />
               <link
                 rel="shortcut
                 icon"
-                href="https://github.com/zhanchong1/zhanchong1.github.io/blob/master/assets/images/teriri.jpg?raw=true"
+                href="http://a1.qpic.cn/psc?/V11md7vZ0BO9Sy/ruAMsa53pVQWN7FLK88i5icB52IDpo26*jU5sN.r.651BD4rGABrtD6iBYKVLOExey4kjJBMTSZTarGBqV4AxuZ05IKXcNiGwdJmNNTBF.0!/c&ek=1&kp=1&pt=0&bo=eAB0AHgAdAARECc!&tl=3&vuin=2059623526&tm=1599645600&sce=60-2-2&rf=0-0"
               />
             - | # 来自lanyon的页面样式，不要改
               <link
@@ -227,7 +227,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: https://github.com/zhanchong1/zhanchong1.github.io/blob/master/assets/images/teriri.jpg?raw=true # 头像的地址
+              img: http://a1.qpic.cn/psc?/V11md7vZ0BO9Sy/ruAMsa53pVQWN7FLK88i5icB52IDpo26*jU5sN.r.651BD4rGABrtD6iBYKVLOExey4kjJBMTSZTarGBqV4AxuZ05IKXcNiGwdJmNNTBF.0!/c&ek=1&kp=1&pt=0&bo=eAB0AHgAdAARECc!&tl=3&vuin=2059623526&tm=1599645600&sce=60-2-2&rf=0-0 # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> 首页'
                 href: /
