@@ -31,7 +31,7 @@
 <!-- .slide -->
 
 ## 我的一些文字
-- [2020-9-9-博客](https://zhanchong1/_posts/2020-9-9-%E5%8D%9A%E5%AE%A2/)
+- [2020-9-9-博客](https://zhanchong1.github.io/_posts/2020-9-9-%E5%8D%9A%E5%AE%A2/)
 
 <!-- .slide -->
 
