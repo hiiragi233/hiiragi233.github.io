@@ -1,6 +1,7 @@
 title: hiiragi # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   WIT17级信息工程在读<br/>
+  hiiragi<br/>
   <br/>
   加急建设中...<br/>
   
@@ -10,10 +11,10 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   <a href="https://github.com/zhanchong1">
     <i class="fab fa-github"></i>
   </a>
-  <a >
+  <a https://zhanchong1.github.io/#/5>
     <i class="fab fa-qq"></i>
   </a>
-  <a >
+  <a https://zhanchong1.github.io/#/5>
     <i class="fab fa-weixin"></i>
   </a>
   
