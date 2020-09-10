@@ -160,11 +160,11 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   background-position: 0% 0%;
                   background-repeat: no-repeat;
                   background-attachment: fixed;
-                  background-image: url(https://Mizuno-Ai.wu-kan.cn/pixiv/74559485_p1.webp);
+                  background-image: url(http://r.photo.store.qq.com/psc?/V11md7vZ0BO9Sy/45NBuzDIW489QBoVep5mceoDeLRRv7DPAQCFpJGg1wYTzuXpHowAJorPvKahDLBULnbzX146dh6bEqRHikSVSUZ*QYdGng1BWuIS9jU5fa0!/r);
                 }
                 @media (min-aspect-ratio: 2400/1850) {
                   .wrap {
-                    background-image: url(https://Mizuno-Ai.wu-kan.cn/pixiv/71932901_p0.webp);
+                    background-image: url(http://r.photo.store.qq.com/psc?/V11md7vZ0BO9Sy/45NBuzDIW489QBoVep5mceoDeLRRv7DPAQCFpJGg1wYTzuXpHowAJorPvKahDLBULnbzX146dh6bEqRHikSVSUZ*QYdGng1BWuIS9jU5fa0!/r);
                   }
                 }
                 .sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
@@ -532,10 +532,10 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
           readtime: # 计算文章阅读时间
             enable: true
             prepend: <i class="fas fa-clock fa-fw"></i>
-            unit: 分
+            unit: 分钟
             divided_by: 300 # 正常人的阅读速度大概每分钟三百个字
           visitor: # 需要引入并开启valine的visitor选项使之开始计数; 可能会和busuanzi统计的有出入
-            enable: true
+            enable: false
             prepend: <i class="fas fa-book-reader fa-fw"></i>
             unit: 次
           tags: # 显示博文标签
