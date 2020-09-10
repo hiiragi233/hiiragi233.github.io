@@ -160,11 +160,11 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   background-position: 0% 0%;
                   background-repeat: no-repeat;
                   background-attachment: fixed;
-                  background-image: url(http://a1.qpic.cn/psc?/V11md7vZ0BO9Sy/ruAMsa53pVQWN7FLK88i5rfvi2qq5HXyFyMFT.gId4I*GWODa6YUJkYurC0Vjkz8ymJWmf22*4xPxWwM1DhdOWmiKvOuwT0HTmJcXIWEcqE!/c&ek=1&kp=1&pt=0&bo=Owc4BAAAAAABFzA!&tl=3&vuin=2059623526&tm=1599714000&sce=60-2-2&rf=0-0);
+                  background-image: url(http://r.photo.store.qq.com/psc?/V11md7vZ0BO9Sy/45NBuzDIW489QBoVep5mceoDeLRRv7DPAQCFpJGg1wYTzuXpHowAJorPvKahDLBULnbzX146dh6bEqRHikSVSUZ*QYdGng1BWuIS9jU5fa0!/r);
                 }
                 @media (min-aspect-ratio: 2400/1850) {
                   .wrap {
-                    background-image: url(http://a1.qpic.cn/psc?/V11md7vZ0BO9Sy/ruAMsa53pVQWN7FLK88i5rfvi2qq5HXyFyMFT.gId4I*GWODa6YUJkYurC0Vjkz8ymJWmf22*4xPxWwM1DhdOWmiKvOuwT0HTmJcXIWEcqE!/c&ek=1&kp=1&pt=0&bo=Owc4BAAAAAABFzA!&tl=3&vuin=2059623526&tm=1599714000&sce=60-2-2&rf=0-0);
+                    background-image: url(http://r.photo.store.qq.com/psc?/V11md7vZ0BO9Sy/45NBuzDIW489QBoVep5mceoDeLRRv7DPAQCFpJGg1wYTzuXpHowAJorPvKahDLBULnbzX146dh6bEqRHikSVSUZ*QYdGng1BWuIS9jU5fa0!/r);
                   }
                 }
                 .sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
