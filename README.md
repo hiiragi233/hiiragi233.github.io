@@ -29,7 +29,7 @@
 <!-- .slide -->
 
 ## 我的一些文字
-- [2020-09-09-博客建设日志](https://zhanchong1.github.io/_posts/2020-09-09-%E5%8D%9A%E5%AE%A2%E5%BB%BA%E8%AE%BE%E6%97%A5%E5%BF%97/)
+- [2020-09-26-C++核心编程](https://zhanchong1.github.io/_posts/2020-09-26-C%2B%2B%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B/)
 
 <!-- .slide -->
 
