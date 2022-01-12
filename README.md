@@ -5,7 +5,7 @@
 
 <!-- .slide -->
 
-## 我的一些教育情况
+## 我的教育情况
 
 - information engineering, School of Electrical Information, Wuhan Institute of Technology
 - Sept. 2017 - Jul. 2021(expected)
@@ -22,6 +22,7 @@
 ## 我的一些技能
 
 - **C/C++/C#**, Familiar
+- **SQL Server**, Familiar
 - **Python**, Familiar
 - **java**, Familiar
 - **Markdown**, Familiar
