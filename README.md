@@ -5,21 +5,23 @@
 
 <!-- .slide -->
 
-## 我的教育情况
+## 我的经历
 
 - information engineering, School of Electrical Information, Wuhan Institute of Technology
-- Sept. 2017 - Jul. 2021(expected)
+- Sept. 2017 - Jul. 2021
+- 东风商用车
+- Sept. 2021 - Now
 
 <!-- .slide -->
 
 
-## 我的一些项目成果
+## 我的项目成果
 
 施工中...
 
 <!-- .slide -->
 
-## 我的一些技能
+## 我的技能
 
 - **C/C++/C#**, Familiar
 - **SQL Server**, Familiar
