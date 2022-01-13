@@ -8,9 +8,9 @@
 ## 我的经历
 
 - information engineering, School of Electrical Information, Wuhan Institute of Technology
-- Sept. 2017 - Jul. 2021
+  - Sept. 2017 - Jul. 2021
 - 东风商用车
-- Sept. 2021 - Now
+  - Sept. 2021 - Now
 
 <!-- .slide -->
 
