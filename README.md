@@ -32,7 +32,7 @@
 <!-- .slide -->
 
 ## 我的一些文字
-- [2020-09-26-C++核心编程](https://zhanchong1.github.io/_posts/2020-09-26-C%2B%2B%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B/)
+- [2020-09-26-C++核心编程](https://hiiragi233.github.io/_posts/2020-09-09-github%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 
 <!-- .slide -->
 
@@ -40,7 +40,7 @@
 
 - Address: **Wuhan Institute of Technology - Wuhan, China**
 - Phone: **+86 17671016836**
-- Site: **<https://zhanchong1.github.io>**
+- Site: **<https://hiiragi233.github.io>**
 - E-mail:**[908023905@qq.com](mailto:908023905@qq.com)**
 - WeChat: **hiiragi233**
 - QQ: **908023905**
