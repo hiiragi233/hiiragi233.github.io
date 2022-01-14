@@ -41,7 +41,6 @@
 - Address: **Wuhan Institute of Technology - Wuhan, China**
 - Phone: **+86 17671016836**
 - Site: **<https://hiiragi233.github.io>**
-- E-mail:**[908023905@qq.com](mailto:908023905@qq.com)**
 - WeChat: **hiiragi233**
 - QQ: **908023905**
 
